@@ -1,0 +1,47 @@
+img{
+    display:block;
+  }
+  #image{
+    max-width:100%;
+    height:auto;
+    margin:auto;
+  }
+  .image-section{
+    background-color:white;
+    padding-bottom:30px;
+  }
+  body{
+    background-color:lightgray;
+    text-align:center;
+  }
+  #tribute-info{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+  }
+  fieldset{
+    text-align:left;
+    width:680px;
+    margin:auto;
+    font-size:18px;
+    border:none;
+  }
+  div,p,.info>ul>li{
+    margin:20px auto;
+  }
+  #img-caption{
+    margin:30px auto;
+    font-size:18px;
+  }
+  .bold{
+    font-weight:800;
+  }
+  .lg{
+  font-size:20px;
+  }
+  #title{
+    font-size:45px;
+  }
+  .saying{
+  
+  }
